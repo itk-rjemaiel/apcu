@@ -1,0 +1,18 @@
+{
+    "name":         "itk-rjemaiel/apcu",
+    "type":         "library",
+    "description":  "Apc library",
+    "keywords":     ["library", "apc", "apcu],
+    "homepage":     "http://github.com/itk-rjemaiel/apcu",
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name":     "Rabii jemaiel",
+            "email":    "jemaielrabii.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "itk-rjemaiel/apcu": ""
+        }
+    }
