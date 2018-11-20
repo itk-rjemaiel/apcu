@@ -1,5 +1,5 @@
 {
-    "name":         "itk-rjemaiel/apcu",
+    "name":         "rabii/apcu",
     "type":         "library",
     "description":  "Apc library",
     "keywords":     ["library", "apc", "apcu"],
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "itk-rjemaiel/apcu": ""
+            "Rabii/apcu": ""
         }
     }
 }
