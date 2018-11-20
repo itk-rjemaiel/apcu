@@ -2,7 +2,7 @@
     "name":         "itk-rjemaiel/apcu",
     "type":         "library",
     "description":  "Apc library",
-    "keywords":     ["library", "apc", "apcu],
+    "keywords":     ["library", "apc", "apcu"],
     "homepage":     "http://github.com/itk-rjemaiel/apcu",
     "license":      "MIT",
     "authors":      [
@@ -16,3 +16,4 @@
             "itk-rjemaiel/apcu": ""
         }
     }
+}
